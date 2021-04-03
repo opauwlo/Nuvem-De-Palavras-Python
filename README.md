@@ -5,8 +5,10 @@
 
 <img width="530px" src="/assets_readme/ENEM_CLOUD.png" align="center" alt="cloud word" />
 <h4 align="left">WordCloud feito com script python do repositorio</h4>
-<img width="500px" src="/assets_readme/ENEM_CLOUD_MONKEY.png" align="center" alt="cloud word" />
-<h4 align="left">WordCloud feito com Monkey Learn</h4>
+<img width="530px" src="/assets_readme/enem_simple.png" align="center" alt="cloud word" />
+<h4 align="left">WordCloud feito com script python do repositorio</h4>
+<img width="530px" src="/assets_readme/inep_simple100.png" align="center" alt="cloud word" />
+<h4 align="left">WordCloud feito com script python do repositorio</h4>
 
 ---
 
